@@ -1,0 +1,8 @@
+---
+title: "practicotarea"
+---
+
+##Hola acá el trabajo para CSA
+
+Que tal ahora construimos todo el esqueleto del trabajo. 
+
